@@ -1,0 +1,17 @@
+body {
+    color: lightpink;
+    background-color: rgb(57, 7, 104);
+    font-family: 'Ewert', cursive;
+
+}
+
+h1 {
+    margin: 15px;
+    border: solid 4px;
+    border-color: darkgreen;
+    padding: 20px;
+}
+
+#name {
+    color: lightblue;
+}
